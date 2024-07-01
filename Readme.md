@@ -8,6 +8,7 @@ This repository is part of coursework for the Full Stack Web Development course 
 - FizzBuzz OOP
 - Simple Calculator
 - Word Exist
+- Twice as old
 
 ## Requirements
 - Nodejs
