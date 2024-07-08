@@ -9,6 +9,7 @@ This repository is part of coursework for the Full Stack Web Development course 
 - Simple Calculator
 - Word Exist
 - Twice as old
+- Third angle of the triangle
 
 ## Requirements
 - Nodejs
