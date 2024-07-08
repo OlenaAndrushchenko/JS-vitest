@@ -12,10 +12,10 @@ describe('Opposites Attract', () => {
     });
 
     it('should return true if Timmy has 0 petals and Sarah has 1', () => {
-        expect(isLove(1, 4)).toBe(true);
+        expect(isLove(0, 1)).toBe(true);
     });
 
-    it('should return false if Timmy has 0 petals and Sarah has 2', () => {
+    it('should return false if Timmy has 0 petals and Sarah has 0', () => {
         expect(isLove(0, 0)).toBe(false);
     });
 });
