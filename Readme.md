@@ -11,6 +11,7 @@ This repository is part of coursework for the Full Stack Web Development course 
 - Twice as old
 - Third angle of the triangle
 - Opposites Attract
+- Array Plus Array
 
 ## Requirements
 - Nodejs
